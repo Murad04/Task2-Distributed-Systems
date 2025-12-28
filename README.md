@@ -48,7 +48,7 @@ python publisher.py
 .\script_manage.bat delete
 ```
 
-### 4. Easy way to run all of them
+### 4. Easy way to run all of the subscribers and publisher 
 ```bat
 .\script_run.bat
 ```
