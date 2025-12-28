@@ -63,4 +63,4 @@ python publisher.py
 *   `script_run.bat`: Starts publisher and four subscribers in separate terminal. 
 
 ## Video Demonstration
-[[Youtube Video](https://youtu.be/zBwUyUv4osE)]
+[[Youtube Video](https://youtu.be/_IuTdSiBBnI)]
