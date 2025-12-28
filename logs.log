@@ -1,0 +1,57 @@
+2025-12-28 16:04:23 - INFO - Setting up topics for project inft-6000...
+2025-12-28 16:04:23 - INFO - Getting topic path for topic: DEBUG
+2025-12-28 16:04:28 - INFO - Created topic: projects/inft-6000/topics/DEBUG-Murad_Mazanli
+2025-12-28 16:04:28 - INFO - Getting topic path for topic: INFO
+2025-12-28 16:04:34 - INFO - Created topic: projects/inft-6000/topics/INFO-Murad_Mazanli
+2025-12-28 16:04:34 - INFO - Getting topic path for topic: WARN
+2025-12-28 16:04:40 - INFO - Created topic: projects/inft-6000/topics/WARN-Murad_Mazanli
+2025-12-28 16:04:40 - INFO - Getting topic path for topic: ERROR
+2025-12-28 16:04:43 - INFO - Created topic: projects/inft-6000/topics/ERROR-Murad_Mazanli
+2025-12-28 16:04:43 - INFO - Getting topic path for topic: ALERT
+2025-12-28 16:04:47 - INFO - Created topic: projects/inft-6000/topics/ALERT-Murad_Mazanli
+2025-12-28 16:04:47 - INFO - Setting up 4 subscriptions per topic...
+2025-12-28 16:04:47 - INFO - Getting topic path for topic: DEBUG
+2025-12-28 16:04:47 - INFO - Getting subscription path for topic: DEBUG, subscriber: sub-1
+2025-12-28 16:04:54 - INFO - Created subscription: projects/inft-6000/subscriptions/DEBUG-Murad_Mazanli-sub-1
+2025-12-28 16:04:54 - INFO - Getting subscription path for topic: DEBUG, subscriber: sub-2
+2025-12-28 16:04:58 - INFO - Created subscription: projects/inft-6000/subscriptions/DEBUG-Murad_Mazanli-sub-2
+2025-12-28 16:04:58 - INFO - Getting subscription path for topic: DEBUG, subscriber: sub-3
+2025-12-28 16:05:03 - INFO - Created subscription: projects/inft-6000/subscriptions/DEBUG-Murad_Mazanli-sub-3
+2025-12-28 16:05:03 - INFO - Getting subscription path for topic: DEBUG, subscriber: sub-4
+2025-12-28 16:05:08 - INFO - Created subscription: projects/inft-6000/subscriptions/DEBUG-Murad_Mazanli-sub-4
+2025-12-28 16:05:08 - INFO - Getting topic path for topic: INFO
+2025-12-28 16:05:08 - INFO - Getting subscription path for topic: INFO, subscriber: sub-1
+2025-12-28 16:05:12 - INFO - Created subscription: projects/inft-6000/subscriptions/INFO-Murad_Mazanli-sub-1
+2025-12-28 16:05:12 - INFO - Getting subscription path for topic: INFO, subscriber: sub-2
+2025-12-28 16:05:17 - INFO - Created subscription: projects/inft-6000/subscriptions/INFO-Murad_Mazanli-sub-2
+2025-12-28 16:05:17 - INFO - Getting subscription path for topic: INFO, subscriber: sub-3
+2025-12-28 16:05:22 - INFO - Created subscription: projects/inft-6000/subscriptions/INFO-Murad_Mazanli-sub-3
+2025-12-28 16:05:22 - INFO - Getting subscription path for topic: INFO, subscriber: sub-4
+2025-12-28 16:05:27 - INFO - Created subscription: projects/inft-6000/subscriptions/INFO-Murad_Mazanli-sub-4
+2025-12-28 16:05:27 - INFO - Getting topic path for topic: WARN
+2025-12-28 16:05:27 - INFO - Getting subscription path for topic: WARN, subscriber: sub-1
+2025-12-28 16:05:31 - INFO - Created subscription: projects/inft-6000/subscriptions/WARN-Murad_Mazanli-sub-1
+2025-12-28 16:05:31 - INFO - Getting subscription path for topic: WARN, subscriber: sub-2
+2025-12-28 16:05:36 - INFO - Created subscription: projects/inft-6000/subscriptions/WARN-Murad_Mazanli-sub-2
+2025-12-28 16:05:36 - INFO - Getting subscription path for topic: WARN, subscriber: sub-3
+2025-12-28 16:05:41 - INFO - Created subscription: projects/inft-6000/subscriptions/WARN-Murad_Mazanli-sub-3
+2025-12-28 16:05:41 - INFO - Getting subscription path for topic: WARN, subscriber: sub-4
+2025-12-28 16:05:46 - INFO - Created subscription: projects/inft-6000/subscriptions/WARN-Murad_Mazanli-sub-4
+2025-12-28 16:05:46 - INFO - Getting topic path for topic: ERROR
+2025-12-28 16:05:46 - INFO - Getting subscription path for topic: ERROR, subscriber: sub-1
+2025-12-28 16:05:52 - INFO - Created subscription: projects/inft-6000/subscriptions/ERROR-Murad_Mazanli-sub-1
+2025-12-28 16:05:52 - INFO - Getting subscription path for topic: ERROR, subscriber: sub-2
+2025-12-28 16:05:56 - INFO - Created subscription: projects/inft-6000/subscriptions/ERROR-Murad_Mazanli-sub-2
+2025-12-28 16:05:56 - INFO - Getting subscription path for topic: ERROR, subscriber: sub-3
+2025-12-28 16:06:01 - INFO - Created subscription: projects/inft-6000/subscriptions/ERROR-Murad_Mazanli-sub-3
+2025-12-28 16:06:01 - INFO - Getting subscription path for topic: ERROR, subscriber: sub-4
+2025-12-28 16:06:05 - INFO - Created subscription: projects/inft-6000/subscriptions/ERROR-Murad_Mazanli-sub-4
+2025-12-28 16:06:05 - INFO - Getting topic path for topic: ALERT
+2025-12-28 16:06:05 - INFO - Getting subscription path for topic: ALERT, subscriber: sub-1
+2025-12-28 16:06:11 - INFO - Created subscription: projects/inft-6000/subscriptions/ALERT-Murad_Mazanli-sub-1
+2025-12-28 16:06:11 - INFO - Getting subscription path for topic: ALERT, subscriber: sub-2
+2025-12-28 16:06:16 - INFO - Created subscription: projects/inft-6000/subscriptions/ALERT-Murad_Mazanli-sub-2
+2025-12-28 16:06:16 - INFO - Getting subscription path for topic: ALERT, subscriber: sub-3
+2025-12-28 16:06:21 - INFO - Created subscription: projects/inft-6000/subscriptions/ALERT-Murad_Mazanli-sub-3
+2025-12-28 16:06:21 - INFO - Getting subscription path for topic: ALERT, subscriber: sub-4
+2025-12-28 16:06:26 - INFO - Created subscription: projects/inft-6000/subscriptions/ALERT-Murad_Mazanli-sub-4
